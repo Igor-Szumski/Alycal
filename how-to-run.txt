@@ -1,0 +1,2 @@
+run command: sail up
+Database phpmyadmin 0.0.0.0:8080 - log: root passwd: blank
